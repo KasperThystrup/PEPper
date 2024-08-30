@@ -1,0 +1,6 @@
+reads:
+ - .fastq.gz
+ - .fastq
+assemblies
+ - .fasta
+ - .fsa
